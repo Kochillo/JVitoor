@@ -1,27 +1,51 @@
-### Hello, World! Eu sou o João Vitor 😊
+# 🎮 João Vitor — Game Programmer
 
-<div align="center">
-  <a href="https://github.com/JVitoor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVitoor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVitoor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Olá! Sou o **João Vitor** 
 
-<div>
-    <h2>📞 Contatos</h2>
-    <a href = "mailto:jvitorlg26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/insta_do_jaum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+Estudante de Jogos Digitais, estagiário em desenvolvimento e apaixonado por game programming, gameplay systems e ferramentas que tornam jogos divertidos.
 
-<div style="display: inline_block"><br>
-  <h2>🖥 Linguagem e Tecnologias</h2>
-  <img align="center" alt="Jaum-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jaum-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Jaum-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Jaum-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Jaum-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Jaum-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jaum-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-  
+---
 
-![Snake animation](https://github.com/JVitoor/JVitoor/blob/output/github-contribution-grid-snake.svg)
+## 🧭 Sobre
+- Estudante de Jogos Digitais (PUC-MINAS)  
+- Técnico em Informática (CEFET-MG)  
+- Estagiário na dti Digital  
+- Interesses: **programação de gameplay**, **IA para jogos**, **física**, **otimização** e **mecânicas**.
+
+---
+
+## 🛠 Principais habilidades (Game Dev)
+- **Unity (C#)** — gameplay, sistemas de partículas, input handling, otimização de runtime  
+- **C#** — programação orientada a objetos, arquitetura de sistemas (State, Singleton, ECS patterns)  
+- **Git / GitHub** — versionamento, workflows (feature branches, PRs)  
+- **Blender** — modelagem básica, exportação para Unity  
+- **Matemática para jogos** — vetores, quaternions, colisões básicas  
+- **Ferramentas**: Unity, C#, Git / GitHub, Visual Studio
+
+---
+
+## 💡 Projetos em destaque
+
+### Cai Entre Nozes — *Plataforma  3D* (Unity / C#)  
+Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`  
+Descrição: Acompanhe Donatella em uma jornada pelas quatro estações, resolvendo puzzles, superando obstáculos e enfrentando os perigos da floresta. Explore ambientes temáticos, interaja com criaturas e colete nozes para garantir uma hibernação tranquila.
+
+### Back To The Where — *Endless Runner* (Unity / C#)  
+Repositório: `https://github.com/RodrigoCoelho12/MinaMania`  
+Descrição: Corrida infinita com gerenciamento de faixas, power-ups e obstáculos gerados proceduralmente. Implementados: controller de lanes, pooling de objetos, estados de jogador (run, slide, jump).
+
+---
+
+## 🔭 Atualmente estou focando em
+- Aprimorar **sistemas de combate** e **input responsivo**  
+- Estudar **Shaders** e **URP optimizations**  
+- Criar um **portfolio com 3 projetos jogáveis** (demos web/Windows)
+
+---
+
+## 📫 Contato
+- Email: jvitorlg26@gmail.com  
+- Instagram: [@insta_do_jaum](https://instagram.com/insta_do_jaum)  
+- GitHub: https://github.com/JVitoor
+
+---
