@@ -23,21 +23,31 @@ Estudante de Jogos Digitais, estagiário em desenvolvimento e apaixonado por gam
 ### Cai Entre Nozes — *Plataforma  3D* (Unity / C#)  
 Acompanhe Donatella em uma jornada pelas quatro estações, resolvendo puzzles, superando obstáculos e enfrentando os perigos da floresta. Explore ambientes temáticos, interaja com criaturas e colete nozes para garantir uma hibernação tranquila.
 
-Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`  
+Itch.io: [Cai Entre Nozes](https://kochillo.itch.io/cai-entre-nozes)
+
+Repositório: `https://github.com/JVitoor/TI4-CaiEntreNozes`
+
+### FightMare — *Boss Fight* (Unity / C#)  
+Derrote seu pior pesadelo quando sua imaginação ganha vida.
+
+Itch.io: [FightMare](https://lugu.itch.io/fightmare)
+
+Repositório: `https://github.com/LuguGMD/JamPucOnline2025-2`
+
+
 
 ### Back To The Where — *Endless Runner* (Unity / C#)  
-Corrida infinita com gerenciamento de faixas, power-ups e obstáculos gerados proceduralmente. Implementados: controller de lanes, pooling de objetos, estados de jogador (run, slide, jump).
+Corrida infinita com gerenciamento de faixas, power-ups e obstáculos gerados proceduralmente.
+
+Itch.io: [MinaMania](https://kochillo.itch.io/minamania)
 
 Repositório: `https://github.com/RodrigoCoelho12/MinaMania`  
 
-## 🔭 Atualmente estou focando em
-- Aprimorar **sistemas de combate** e **input responsivo**  
-- Estudar **Shaders** e **URP optimizations**  
-- Criar um **portfolio com 3 projetos jogáveis** (demos web/Windows)
+
 
 ## 📫 Contato
 - Email: jvitorlg26@gmail.com  
 - Instagram: [@insta_do_jaum](https://instagram.com/insta_do_jaum)  
-- GitHub: https://github.com/JVitoor
+- Itch.io: [Kochillo](https://kochillo.itch.io/)
 
 ---
